@@ -35,13 +35,6 @@ Les valeurs visibles sur la capture d’écran sont un exemple de lecture du tab
 
 > Remarque : les éléments ci-dessus décrivent les fonctionnalités visibles sur le dashboard. Adaptez la liste des outils à la manière dont votre fichier Excel a réellement été construit.
 
-## Utilisation
-
-1. Téléchargez ou clonez ce dépôt.
-2. Ouvrez le classeur Excel associé au projet.
-3. Actualisez les données si nécessaire.
-4. Utilisez les filtres pour explorer les périodes, types d’intervention et modes de défaillance.
-5. Analysez les équipements et composants prioritaires afin d’orienter les actions de maintenance.
 
 ## Objectif du projet
 
